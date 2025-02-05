@@ -1,6 +1,6 @@
 import subprocess
 
-ip_address = "127.0.0.1
+ip_address = "127.0.0.1"
 port = 80
 
 # setting proxy env var
